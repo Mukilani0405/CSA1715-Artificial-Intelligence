@@ -1,1 +1,1 @@
-# CSA1715-Artificial-Intelligence-Lab-Programs
+# CSA1715-Artificial-Intelligence
